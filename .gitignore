@@ -1,0 +1,11 @@
+# Environment directory
+venv/
+.vscode/
+.env
+env
+.DS_Store
+
+
+# python compiled files
+*.pyc
+__pycache__/
