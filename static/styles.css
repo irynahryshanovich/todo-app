@@ -68,11 +68,11 @@ body {
 	font-size: 0.8rem;
 	background-color: #a796b9;
 	color: #4c2873;
+	width: fit-content;
 	cursor: pointer;
 	border-radius: 6px;
 	border: none;
-	padding: 0.5rem 2.75rem;
-	justify-content: space-between;
+	padding: 0.5rem 1rem;
 	text-decoration: none;
 	margin-right: 6px;
 	display: block;
