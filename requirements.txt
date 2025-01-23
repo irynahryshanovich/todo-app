@@ -1,6 +1,7 @@
 flask
 python-dotenv
 pymongo[srv]
+# for tlsCAFile
 certifi
 flask-pymongo
 gunicorn
